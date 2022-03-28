@@ -1,6 +1,6 @@
 # ERC 1155 NFT Smart-Contract Template
 
-Use this contract for saving gas fees on Ethereum 10k PFP NFT launches.
+Use this contract for saving gas fees on Ethereum NFT launches, not only for NFT with multiple copies of the same item.
 
 ## Functions
 
